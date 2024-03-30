@@ -7,7 +7,7 @@ where ship_city like '%burg'
 -- 2. из таблицы orders идентификатор заказа, идентификатор заказчика, вес и страну отгрузки. Заказ отгружен в страны, начинающиеся на 'P'. Результат отсортирован по весу (по убыванию). Вывести первые 10 записей.
 select order_id, customer_id, freight, ship_country
 from orders
-where ship_city like 'P%'
+where ship_country like 'P%'
 order by freight desc
 limit 10
 
