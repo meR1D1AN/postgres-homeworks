@@ -33,10 +33,10 @@ order by sum(freight) desc
 -- 6. страны, в которых зарегистрированы и заказчики (customers) и поставщики (suppliers) и работники (employees).
 select country
 from customers
-union
+INTERSECT
 select country
 from suppliers
-union
+INTERSECT
 select country
 from employees
 
