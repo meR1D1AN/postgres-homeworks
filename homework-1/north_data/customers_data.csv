@@ -1,8 +1,8 @@
-"customer_id","company_name","contact_name"
-"ALFKI","Alfreds Futterkiste","Maria Anders"
+customer_id,"company_name","contact_name"
+"ALFKI","Alfreds Futterkiste",Maria Anders
 "ANATR","Ana Trujillo Emparedados y helados","Ana Trujillo"
 "ANTON","Antonio Moreno Taquería","Antonio Moreno"
-"AROUT","Around the Horn","Thomas Hardy"
+AROUT,"Around the Horn","Thomas Hardy"
 "BERGS","Berglunds snabbköp","Christina Berglund"
 "BLAUS","Blauer See Delikatessen","Hanna Moos"
 "BLONP","Blondesddsl père et fils","Frédérique Citeaux"
@@ -77,7 +77,7 @@
 "SUPRD","Suprêmes délices","Pascale Cartrain"
 "THEBI","The Big Cheese","Liz Nixon"
 "THECR","The Cracker Box","Liu Wong"
-"TOMSP","Toms Spezialitäten","Karin Josephs"
+TOMSP,"Toms Spezialitäten",Karin Josephs
 "TORTU","Tortuga Restaurante","Miguel Angel Paolino"
 "TRADH","Tradição Hipermercados","Anabela Domingues"
 "TRAIH","Trail's Head Gourmet Provisioners","Helvetius Nagy"
