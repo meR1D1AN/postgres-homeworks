@@ -1,6 +1,6 @@
 -- Напишите запросы, которые выводят следующую информацию:
 -- 1. заказы, доставленные в страны France, Germany, Spain (таблица orders, колонка ship_country)
-select order_id
+select *
 from orders
 where ship_country = 'France' or
 	ship_country = 'Germany' or
